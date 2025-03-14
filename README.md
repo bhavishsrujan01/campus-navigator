@@ -58,7 +58,7 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact
 For any inquiries or suggestions, reach out at:
-- Email: your-email@example.com
+- Email: bhavishsrujan78@gmail.com
 - GitHub: [bhavishsrujan01](https://github.com/bhavishsrujan01)
 - LinkedIn: [Bhavish srujan](https://www.linkedin.com/in/bhavish-srujan-2573562aa/)
 
