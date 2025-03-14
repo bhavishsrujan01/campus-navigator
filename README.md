@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 ## 📩 Contact
 For any inquiries or suggestions, reach out at:
 - Email: your-email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [bhavishsrujan01](https://github.com/bhavishsrujan01)
+- LinkedIn: [Bhavish srujan](https://www.linkedin.com/in/bhavish-srujan-2573562aa/)
 
 
